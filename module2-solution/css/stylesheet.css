@@ -19,7 +19,8 @@ p {
   margin-left: 16px;
   font-family: Helvetica;
   color: black;
-  padding: 10px;  
+  padding-left: 10px; 
+   
 }
 #suchi {
     width: 100px;
