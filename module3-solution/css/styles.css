@@ -1,0 +1,34 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+
+}
+.col-md-12 {
+    width: 100%;
+  }
+#BigText{
+  background-color: grey; margin: 10px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+h3{
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+ color: black; 
+}
+#navbarSupportedContent{
+  text-align: center;
+}
